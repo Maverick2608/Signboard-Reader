@@ -1,6 +1,7 @@
 # Signboard-Reader
 
 • Implemented ORB algorithm to detect 10 common traffic signs within a range of 4 feet to assist the visually impaired
+
 • The system is portable and consists of a Raspberry Pi microcontroller, a monocular camera mounted on spectacles and the output is in audio format via a pair of earphones
 
 Abstract - 
